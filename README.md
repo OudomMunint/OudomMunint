@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Oudom Munint
-- 💖 I’m Love Web dev, App dev, frontend dev, PCs, Computer graphics, Computer hardware.
+- 💖 I Love Web dev, App dev, frontend dev, PCs, Computer graphics, Computer hardware.
+- 👷 I am currently a software developer at <a href="https://www.pdsglobal.com/">`PDS GLOBAL`</a>
 - 👀 Visit my [`Portfolio`](https://oudommunint.netlify.app/)
 - 📫 Reach me on <a href="https://www.linkedin.com/in/oudom-munint/"> `LinkedIn` </a>, <a href="mailto:oudommunint@gmail.com">`Email`</a>.
 
