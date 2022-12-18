@@ -10,6 +10,8 @@
 - `SQL Server & TSQL`
 - `.NET Maui`
 - `Xamarin`
+- `Python`
+- `VB.NET`
 - `Azure Dev Ops`
 - `Figma`
 - `Unity Engine`
