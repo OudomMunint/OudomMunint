@@ -2,19 +2,16 @@
 - 💖 I Love Web dev, App dev, PCs, Computer graphics, Computer hardware.
 - 💻 I've worked with technologies such as
 - `HTML/HAML`
-- `CSS/SCSS` + `Bootstrap & Tailwind`
+- `CSS/SCSS` & `Bootstrap & Tailwind`
 - `JavaScript` & `ReactJS` & `NodeJS`
-- `ASP.NET MVC` & `.NET Maui` & `C#`
-- `Jquery UI` + `Jquery`
-- `Kendo UI`
-- `SQL Server & TSQL`
-- `Xamarin`
+- `ASP.NET MVC` & `.NET Maui` & `C#` & `Xamarin`
+- `Kendo UI` & `Jquery UI` & `Jquery`
+- `SQL Server` & `TSQL`
 - `WordPress` & `Contentful` & `SquareSpace`
 - `Python` & `Jython`
-- `VB.NET`
-- `Azure Dev Ops`
-- `Figma`
-- `Unity Engine` & `Unreal Engine 4/5`
+- `VB.NET` & `WPF` & `Windows Form`
+- `Azure Dev Ops` & `GIT` & `Notion` & `Jira`
+- `Figma` & `Unity Engine` & `Unreal Engine 4/5`
 - 👷 I am currently a Software Engineer at <a href="https://www.pdsglobal.com/">`PDS GLOBAL`</a>
 - 👀 Visit my [`Portfolio`](https://oudommunint.netlify.app/)
 - 📫 Reach me on <a href="https://www.linkedin.com/in/oudom-munint/"> `LinkedIn` </a>, <a href="mailto:oudommunint@gmail.com">`oudommunint@gmail.com`</a>.
