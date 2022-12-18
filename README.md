@@ -6,16 +6,15 @@
 - `JavaScript + ReactJs & NodeJs`
 - `Jquery UI`
 - `Kendo UI`
-- `ASP.NET and C#`
+- `ASP.NET MVC` & `.NET Maui` & `C#`
 - `SQL Server & TSQL`
-- `.NET Maui`
 - `Xamarin`
-- `Python`
+- `WordPress` & `Contentful` & `SquareSpace`
+- `Python` & `Jython`
 - `VB.NET`
 - `Azure Dev Ops`
 - `Figma`
-- `Unity Engine`
-- `Unreal Engine 4/5`
+- `Unity Engine` & `Unreal Engine 4/5`
 - 👷 I am currently a Software Engineer at <a href="https://www.pdsglobal.com/">`PDS GLOBAL`</a>
 - 👀 Visit my [`Portfolio`](https://oudommunint.netlify.app/)
 - 📫 Reach me on <a href="https://www.linkedin.com/in/oudom-munint/"> `LinkedIn` </a>, <a href="mailto:oudommunint@gmail.com">`Email`</a>.
