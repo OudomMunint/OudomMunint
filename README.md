@@ -3,7 +3,7 @@
 - 💻 I've worked with technologies such as
 - `HTML/HAML`
 - `CSS/SCSS` + `Bootstrap & Tailwind`
-- `JavaScript + ReactJs & NodeJs`
+- `JavaScript` & `ReactJS` & `NodeJS`
 - `ASP.NET MVC` & `.NET Maui` & `C#`
 - `Jquery UI` + `Jquery`
 - `Kendo UI`
