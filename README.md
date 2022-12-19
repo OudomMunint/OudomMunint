@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oudom Munint, 23
-- 💖 I Love Web dev, App dev, PCs, Computer graphics, Computer hardware.
+- 💖 I Love building `Web sites`, `Web apps`, `Mobile apps`, `User interface and User experiences` and `Computers`!
 - 💻 I've worked with technologies such as
 - `HTML/HAML`
 - `CSS/SCSS` & `Bootstrap & Tailwind`
