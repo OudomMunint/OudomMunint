@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Oudom Munint, 23. I am currently a Software Engineer II at <a href="https://www.pdsglobal.com/">`PDS GLOBAL`</a>
+## 👋 Hi, I’m Oudom Munint, 23. I am currently a Software Engineer at <a href="https://www.pdsglobal.com/">`PDS GLOBAL`</a>
 ## 💖 I Love building
 `Web sites`, `Web apps`, `Mobile apps`, `User interfaces`, `User experiences` and `Computers!`
 ## 💻 I've worked with technologies such as:
