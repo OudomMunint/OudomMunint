@@ -26,6 +26,6 @@
 </a>
 
 <div display="inline-flex">
- <img src="https://github-readme-stats.vercel.app/api?username=oudommunint&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oudommunint&layout=compact&theme=transparent&hide_border=true" />
+ <img display="inline-flex" src="https://github-readme-stats.vercel.app/api?username=oudommunint&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
+ <img display="inline-flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oudommunint&layout=compact&theme=transparent&hide_border=true" />
 </div>
