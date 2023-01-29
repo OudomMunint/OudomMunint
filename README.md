@@ -26,4 +26,4 @@
   <img text-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsimFaiaz&layout=compact&theme=transparent&hide_border=true" />
 </a>
 
-<img text-align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oudommunint&theme=github-dark-blue&hide_border=true" />
+<img text-align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oudommunint&theme=transparent&hide_border=true" />
