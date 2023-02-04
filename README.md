@@ -19,10 +19,5 @@
 <a href="https://www.linkedin.com/in/oudom-munint/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="mailto:oudommunint@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/></a>
 
 <a href="#">
-  <img text-align="center" src="https://github-readme-stats.vercel.app/api?username=oudommunint&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
+  <img text-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsimFaiaz&layout=compact&hide_border=true" />
 </a>
-
-<a href="#">
-  <img text-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsimFaiaz&layout=compact&theme=transparent&hide_border=true" />
-</a>
-<img text-align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oudommunint&theme=github-dark-blue&hide_border=true" />
