@@ -18,10 +18,10 @@
 ## 📫 Reach me on
 <a href="https://www.linkedin.com/in/oudom-munint/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="mailto:oudommunint@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OudomMunint&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OudomMunint&count_private=true&show_icons=true&theme=radical&hide_border=true)
 <a href="#">
-  <img text-align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oudommunint&theme=github-dark-blue" />
+  <img text-align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oudommunint&theme=radical&hide_border=true" />
 </a>
 <a href="#">
-  <img text-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsimFaiaz&layout=compact&hide_border=true" />
+  <img text-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsimFaiaz&layout=compact&hide_border=true&theme=radical" />
 </a>
