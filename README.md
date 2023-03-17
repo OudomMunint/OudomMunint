@@ -22,5 +22,5 @@
   <img text-align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oudommunint&theme=radical&hide_border=true" />
 </a>
 <a href="#">
-  <img text-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oudommunint&hide=css,html,visualbasicU+2022net&hide_border=true&theme=radical&langs_count=10&layout=compact&card_width=350" />
+  <img text-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oudommunint&hide=css,html,visual%20basic.net&hide_border=true&theme=radical&langs_count=10&layout=compact&card_width=350" />
 </a>
