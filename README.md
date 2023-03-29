@@ -2,7 +2,7 @@
 ## 💖 I Love building
 `Web sites`, `Web apps`, `Mobile apps`, `User interfaces`, `User experiences` and `Computers!`
 ## 💻 I've worked with technologies such as:
- `HTML/HAML`
+ `HTML`
  `CSS/SCSS` `Bootstrap & Tailwind`
  `JavaScript` `ReactJS` `NodeJS`
  `ASP.NET MVC` `.NET Maui` `C#` `Xamarin`
