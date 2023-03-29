@@ -2,10 +2,10 @@
 ## 💖 I Love building
 `Web sites`, `Web apps`, `Mobile apps`, `User interfaces`, `User experiences` and `Computers!`
 ## 💻 I've worked with technologies such as:
- `HTML`
- `CSS` `Bootstrap & Tailwind`
  `JavaScript` `ReactJS` `NodeJS`
  `ASP.NET MVC` `.NET Maui` `C#` `Xamarin`
+ `HTML`
+ `CSS` `Bootstrap & Tailwind`
  `Kendo UI` `Jquery UI` `Jquery`
  `SQL Server` `TSQL`
  `WordPress` `Contentful` `SquareSpace`
