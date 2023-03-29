@@ -3,7 +3,7 @@
 `Web sites`, `Web apps`, `Mobile apps`, `User interfaces`, `User experiences` and `Computers!`
 ## 💻 I've worked with technologies such as:
  `HTML`
- `CSS/SCSS` `Bootstrap & Tailwind`
+ `CSS` `Bootstrap & Tailwind`
  `JavaScript` `ReactJS` `NodeJS`
  `ASP.NET MVC` `.NET Maui` `C#` `Xamarin`
  `Kendo UI` `Jquery UI` `Jquery`
