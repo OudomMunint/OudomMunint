@@ -10,6 +10,12 @@
  `ASP.NET MVC` `.NET Maui` `Xamarin`
  `Bootstrap & Tailwind`
  `Kendo UI` `Jquery UI` `WPF` `Windows Form`
+ 
+ #### Libraries:
+ `ReactJS` `Jython` `Jquery`
+
+ #### Version Control:
+`Azure Dev Ops` `GitHub` `GIT`
 
 ## 👀 Visit my [`Portfolio`](https://oudommunint.netlify.app/) to see what I can do!
 ## 📫 Reach me on
