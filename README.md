@@ -11,11 +11,15 @@
  `Bootstrap & Tailwind`
  `Kendo UI` `Jquery UI` `WPF` `Windows Form`
  
- #### Libraries:
+#### Libraries:
  `ReactJS` `Jython` `Jquery`
 
- #### Version Control:
+#### Version Control:
 `Azure Dev Ops` `GitHub` `GIT`
+
+#### Others:
+`Notion` `Figma` `Unity Engine` `Unreal Engine 4/5`
+`WordPress` `Contentful` `SquareSpace`
 
 ## 👀 Visit my [`Portfolio`](https://oudommunint.netlify.app/) to see what I can do!
 ## 📫 Reach me on
