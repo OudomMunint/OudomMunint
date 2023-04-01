@@ -2,6 +2,8 @@
 ## 💖 I Love building
 `Web sites`, `Web apps`, `Mobile apps`, `User interfaces`, `User experiences` and `Computers!`
 ## 💻 I've worked with technologies such as:
+#### Languages:
+`JavaScript` `C#` `VB.NET` `Python` `SQL` `HTML` `CSS`
  `JavaScript` `ReactJS` `NodeJS`
  `ASP.NET MVC` `.NET Maui` `C#` `Xamarin`
  `HTML`
