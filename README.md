@@ -4,17 +4,13 @@
 ## 💻 I've worked with technologies such as:
 #### Languages:
 `JavaScript` `C#` `VB.NET` `Python` `SQL` `HTML` `CSS`
- `JavaScript` `ReactJS` `NodeJS`
- `ASP.NET MVC` `.NET Maui` `C#` `Xamarin`
- `HTML`
- `CSS` `Bootstrap & Tailwind`
- `Kendo UI` `Jquery UI` `Jquery`
- `SQL Server` `TSQL`
- `WordPress` `Contentful` `SquareSpace`
- `Python` `Jython`
- `VB.NET` `WPF` `Windows Form`
- `Azure Dev Ops` `GIT` `Notion` `Jira`
- `Figma` `Unity Engine` `Unreal Engine 4/5` 
+
+#### Frameworks:
+ `NodeJS`
+ `ASP.NET MVC` `.NET Maui` `Xamarin`
+ `Bootstrap & Tailwind`
+ `Kendo UI` `Jquery UI` `WPF` `Windows Form`
+
 ## 👀 Visit my [`Portfolio`](https://oudommunint.netlify.app/) to see what I can do!
 ## 📫 Reach me on
 <a href="https://www.linkedin.com/in/oudom-munint/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="mailto:oudommunint@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/></a>
