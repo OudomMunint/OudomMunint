@@ -3,7 +3,7 @@
 `Web sites`, `Web apps`, `Mobile apps`, `User interfaces`, `User experiences` and `Computers!`
 ## 💻 I've worked with technologies such as:
 #### Languages:
-`JavaScript` `C#` `VB.NET` `Python` `SQL` `PHP` `HTML` `CSS`
+`JavaScript` `C#` `VB.NET` `Python` `SQL` `PHP` `HTML` `CSS` `YAML`
 
 #### Frameworks:
  `NodeJS`
@@ -14,7 +14,7 @@
 #### Libraries:
  `ReactJS` `Jython` `Jquery`
 
-#### Version Control:
+#### Version Control & CI/CD:
 `Azure Dev Ops` `GitHub` `GIT`
 
 #### Others:
