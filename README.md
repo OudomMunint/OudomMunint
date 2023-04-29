@@ -12,9 +12,9 @@
  `Kendo UI` `Jquery UI` `WPF` `Windows Form`
  
 #### Libraries:
- `ReactJS` `Jython` `Jquery`
+ `ReactJS` `Jython` `Jquery` `Kendo UI`
 
-#### Version Control & CI/CD:
+#### Version Control & CI / CD:
 `Azure Dev Ops` `GitHub` `GIT`
 
 #### Others:
