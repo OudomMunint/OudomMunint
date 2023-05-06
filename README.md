@@ -30,6 +30,6 @@
   <img text-align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oudommunint&theme=radical&hide_border=true" />
 </a>
 <a href="#">
-  <img text-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oudommunint&hide=css,html&hide_border=true&theme=radical&langs_count=10&layout=compact&card_width=350" />
+  <img text-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oudommunint&hide=css,html&hide_border=true&theme=radical&langs_count=100&layout=compact&card_width=350" />
 </a>
 <!-- ,Visual%20Basic%20.net -->
