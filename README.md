@@ -3,13 +3,13 @@
 `Web sites`, `Web apps`, `Mobile apps`, `User interfaces`, `User experiences` and `Computers!`
 ## 💻 I've worked with technologies such as:
 #### Languages:
-`JavaScript` `C#` `VB.NET` `Python` `SQL` `PHP` `HTML` `CSS` `YAML`
+`JavaScript` `TypeScript` `C#` `C++` `VB` `Python` `SQL` `PHP` `YAML` `HTML` `CSS`
 
 #### Frameworks:
  `NodeJS`
  `ASP.NET MVC` `.NET Maui` `Xamarin`
- `Bootstrap & Tailwind`
- `Kendo UI` `Jquery UI` `WPF` `Windows Form`
+ `Bootstrap & Tailwind` `OpenGL`
+ `Jquery UI` `WPF` `Windows Form`
  
 #### Libraries:
  `ReactJS` `Jython` `Jquery` `Kendo UI`
