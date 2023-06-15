@@ -6,20 +6,20 @@
 `JavaScript` `TypeScript` `C#` `C++` `VB` `Python` `SQL` `PHP` `YAML` `HTML` `CSS`
 
 #### Frameworks:
- `NodeJS`
- `ASP.NET MVC` `.NET Maui` `Xamarin`
- `Bootstrap & Tailwind` `OpenGL`
- `Jquery UI` `WPF` `Windows Form`
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+ ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
+ ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
  
 #### Libraries:
- `ReactJS` `Jython` `Jquery` `Kendo UI`
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 #### Version Control & CI / CD:
-`Azure Dev Ops` `GitHub` `GIT`
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 #### Others:
-`Notion` `Figma` `Unity Engine` `Unreal Engine 4/5`
-`WordPress` `Contentful` `SquareSpace`
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## 👀 Visit my [`Portfolio`](https://oudommunint.netlify.app/) to see what I can do!
 ## 📫 Reach me on
