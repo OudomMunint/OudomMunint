@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Oudom Munint, 23. I am currently a Software Engineer at <a href="https://www.pdsglobal.com/">`PDS GLOBAL`</a>
 ## 💖 I Love building
 `Web sites`, `Web apps`, `Mobile apps`, `User interfaces`, `User experiences` and `Computers!`
-## 💻 I've worked with technologies such as:
+## 🖥️ I've worked with technologies such as:
 <details open>
  <summary>Languages💻</summary>
  <br>
@@ -15,7 +15,7 @@
 </details>
 
 <details>
- <summary>Frameworks💻</summary>
+ <summary>Frameworks⚙️</summary>
 <br>
  
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
