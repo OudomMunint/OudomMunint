@@ -52,9 +52,11 @@
 
 ## Some stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OudomMunint&count_private=true&show_icons=true&theme=radical&hide_border=true)
-<a href="#">
+
+<!--<a href="#">
   <img text-align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oudommunint&theme=radical&hide_border=true" />
-</a>
+</a>-->
+
 <a href="#">
   <img text-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oudommunint&hide=css,html,c,freebasic,makefile&hide_border=true&theme=radical&langs_count=100&layout=compact&card_width=350" /></a>
 <!-- ,Visual%20Basic%20.net -->
