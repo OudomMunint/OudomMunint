@@ -51,11 +51,11 @@
 <a href="https://www.linkedin.com/in/oudom-munint/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="mailto:oudommunint@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/></a>
 
 ## Some stats 📊
-![Anurag's GitHub stats](https://my-github-readme-stats-ruddy.vercel.app/api?username=OudomMunint&count_private=true&show_icons=true&theme=radical&hide_border=true)
-
-<a href="#">
-  <img text-align="center" src="https://my-github-readme-stats-mauve.vercel.app/api/top-langs/?username=oudommunint&hide=css,html,c,freebasic,makefile&hide_border=true&theme=radical&langs_count=100&layout=compact&card_width=350" /></a>
+ <a href="#">
+  <img text-align="center" src="https://my-github-readme-stats-ruddy.vercel.app/api?username=OudomMunint&count_private=true&show_icons=true&theme=radical&hide_border=true" />
+</a>
  <a href="#">
   <img text-align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oudommunint&theme=radical&hide_border=true" />
 </a>
+  <img text-align="center" src="https://my-github-readme-stats-mauve.vercel.app/api/top-langs/?username=oudommunint&hide=css,html,c,freebasic,makefile&hide_border=true&theme=radical&langs_count=100&layout=compact&card_width=350" />
 <!-- ,Visual%20Basic%20.net -->
