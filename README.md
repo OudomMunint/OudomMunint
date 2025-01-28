@@ -26,6 +26,6 @@
 
 ## Some stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oudommunint&show_icons=true&theme=radical&hide_border=true&include_all_commits=false&rank_icon=percentile%&show=reviews,prs_merged,prs_merged_percentage&hide=contribs)
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=oudommunint&theme=radical&hide_border=true)
+<!--![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=oudommunint&theme=radical&hide_border=true)-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oudommunint&hide=css,html,c,freebasic,makefile&hide_border=true&theme=radical&langs_count=100&layout=compact&card_width=350)
 <!-- ,Visual%20Basic%20.net -->
