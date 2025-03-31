@@ -1,6 +1,4 @@
-## 👋 Hi, I’m Oudom Munint, currently a Software Engineer at <a href="https://www.pdsglobal.com/">`PDS GLOBAL`</a>
-## 💖 I Love building
-`Web sites`, `Web apps`, `Mobile apps`, `apps`, `User interfaces`, `User experiences` and `Computers!`
+## 👋 Hi, I’m Oudom Munint, Software Engineer.
 ## 🖥️ Stuff I've worked with:
 <details open>
  <summary></summary>
@@ -18,9 +16,14 @@
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 </details>
 
-## 👀 Visit my [`Portfolio`](https://oudommunint.netlify.app/)
-## 📫 Reach me on
-<a href="https://www.linkedin.com/in/oudom-munint/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="mailto:oudommunint@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/></a>
+## 📫 Links
+<details open>
+ <summary></summary>
+ 
+[`Portfolio`](https://oudommunint.netlify.app/)
+ 
+[`LinkedIn`](https://oudommunint.netlify.app/)
+</details>
 
 ## Some stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oudommunint&show_icons=true&theme=radical&hide_border=true&include_all_commits=false&rank_icon=percentile%&show=reviews,prs_merged,prs_merged_percentage&hide=contribs)
