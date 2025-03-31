@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Oudom Munint, Software Engineer.
-## 🖥️ Stuff I've worked with:
-<details open>
+## 🖥️ Stuff I've worked with
+<details close>
  <summary></summary>
  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,7 +17,7 @@
 </details>
 
 ## 📫 Links
-<details open>
+<details close>
  <summary></summary>
  
 [`Portfolio`](https://oudommunint.netlify.app/)
@@ -25,8 +25,12 @@
 [`LinkedIn`](https://oudommunint.netlify.app/)
 </details>
 
-## Some stats 📊
+## 📊 Some stats
+<details close>
+ <summary></summary>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oudommunint&show_icons=true&theme=radical&hide_border=true&include_all_commits=false&rank_icon=percentile%&show=reviews,prs_merged,prs_merged_percentage&hide=contribs)
 <!--![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=oudommunint&theme=radical&hide_border=true)-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oudommunint&hide=css,html,c,freebasic,makefile&hide_border=true&theme=radical&langs_count=100&layout=compact&card_width=350)
 <!-- ,Visual%20Basic%20.net -->
+</details>
