@@ -22,7 +22,8 @@
  
 [`Portfolio`](https://oudommunint.netlify.app/)
  
-[`LinkedIn`](www.linkedin.com/in/oudom-munint)
+[`LinkedIn`](www.linkedin.com/in/oudom-munint/)
+
 </details>
 
 ## 📊 Some stats
