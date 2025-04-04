@@ -22,7 +22,7 @@
  
 [`Portfolio`](https://oudommunint.netlify.app/)
  
-[`LinkedIn`](www.linkedin.com/in/oudom-munint/)
+[`LinkedIn`](https://www.linkedin.com/in/oudom-munint/)
 
 </details>
 
