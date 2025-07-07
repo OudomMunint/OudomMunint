@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Oudom Munint, Software Engineer.
 ## 🖥️ Stuff I've worked with
-<details close>
+<details open>
  <summary></summary>
  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,7 +17,7 @@
 </details>
 
 ## 📫 Links
-<details close>
+<details open>
  <summary></summary>
  
 [`Portfolio`](https://oudommunint.netlify.app/)
@@ -27,7 +27,7 @@
 </details>
 
 ## 📊 Some stats
-<details close>
+<details open>
  <summary></summary>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oudommunint&show_icons=true&theme=radical&hide_border=true&include_all_commits=false&rank_icon=percentile%&show=reviews,prs_merged,prs_merged_percentage&hide=contribs)
